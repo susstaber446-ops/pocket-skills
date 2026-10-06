@@ -1,12 +1,3 @@
----
-name: React Native & Expo Architect
-description: Production Expo SDK 53+, Hermes engine, Metro bundler troubleshooting, safe area, and responsive layouts.
-category: framework
-icon: phone-portrait-outline
-version: 1.2.0
-author: susstaber446-ops
----
-
 ### DOMAIN SKILL: REACT NATIVE & EXPO ARCHITECTURE
 1. Use StyleSheet.create for all styles; avoid ad-hoc inline objects in render loops to preserve native flat view performance.
 2. Remember that New Architecture has Hermes enabled by default; experimental layout animations are no-ops.
