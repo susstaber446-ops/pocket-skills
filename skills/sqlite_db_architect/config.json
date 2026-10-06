@@ -1,0 +1,9 @@
+{
+  "id": "sqlite_db_architect",
+  "name": "SQLite Database & Schema Architect",
+  "version": "1.0.0",
+  "category": "database",
+  "icon": "server-outline",
+  "author": "susstaber446-ops",
+  "description": "Lightweight SQL query optimization, SQLite foreign key enforcement, migration safety, and transaction boundaries."
+}
