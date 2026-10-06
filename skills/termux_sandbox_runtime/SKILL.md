@@ -1,12 +1,3 @@
----
-name: Termux Android Runtime Specialist
-description: Android POSIX sandbox constraints, SELinux kernel guards, memory conservation, and background daemons.
-category: runtime
-icon: terminal-outline
-version: 1.1.0
-author: susstaber446-ops
----
-
 ### DOMAIN SKILL: TERMUX RUNTIME CONSTRAINTS
 1. Port tools (lsof, fuser, ss, netstat) are strictly BLOCKED by Android SELinux. Never invoke them.
 2. To terminate processes on occupied ports, use 'pkill -f <process_name>'.
