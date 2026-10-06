@@ -1,0 +1,9 @@
+{
+  "id": "git_conventional_committer",
+  "name": "Git Conventional Workflow & PR Specialist",
+  "version": "1.0.0",
+  "category": "git",
+  "icon": "git-branch-outline",
+  "author": "susstaber446-ops",
+  "description": "Semantic versioning, Conventional Commits (feat, fix, refactor), atomic git commits, and clean PR descriptions."
+}
