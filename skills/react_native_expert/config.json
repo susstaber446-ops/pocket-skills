@@ -1,0 +1,9 @@
+{
+  "id": "react_native_expert",
+  "name": "React Native & Expo Architect",
+  "version": "1.2.0",
+  "category": "framework",
+  "icon": "phone-portrait-outline",
+  "author": "susstaber446-ops",
+  "description": "Production Expo SDK 53+, Hermes engine, Metro bundler troubleshooting, safe area, and responsive layouts."
+}
