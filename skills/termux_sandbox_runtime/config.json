@@ -1,0 +1,9 @@
+{
+  "id": "termux_sandbox_runtime",
+  "name": "Termux Android Runtime Specialist",
+  "version": "1.1.0",
+  "category": "runtime",
+  "icon": "terminal-outline",
+  "author": "susstaber446-ops",
+  "description": "Android POSIX sandbox constraints, SELinux kernel guards, memory conservation, and background daemons."
+}
