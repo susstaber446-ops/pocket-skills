@@ -1,0 +1,9 @@
+{
+  "id": "android_cli_master",
+  "name": "Android CLI & Gradle Master",
+  "version": "1.0.0",
+  "category": "system",
+  "icon": "hardware-chip-outline",
+  "author": "susstaber446-ops",
+  "description": "Android SDK command line tools, Gradle properties, daemon memory optimization, and device debugging."
+}
