@@ -1,0 +1,9 @@
+{
+    "id":  "phaser_arcade_games",
+    "name":  "Phaser 3 \u0026 Arcade Game Development",
+    "description":  "Elite 2D mobile game architecture, Phaser 3 (v3.60+), procedural audio synthesis, particle juice, and arcade physics.",
+    "icon":  "game-controller-outline",
+    "author":  "susstaber446-ops",
+    "category":  "game_development",
+    "version":  "2.0.0"
+}
